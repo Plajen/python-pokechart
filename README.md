@@ -5,3 +5,5 @@ Projeto pessoal realizado após concluir o curso "Python Basics", que correspond
 Como forma de praticar, decidi criar meu próprio projeto (um tanto mais lúdico), utilizando Jupyter e consumindo "PokéAPI" e "QuickChart" em Python para gerar um gráfico comparando a quantidade de Pokémons por tipo.
 
 Obs: essa é a prova de que Água é o melhor elemento!
+
+![pokechart](https://github.com/Plajen/python-pokechart/blob/master/pokechart.png?raw=true)
