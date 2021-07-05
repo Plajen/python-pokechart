@@ -1,0 +1,74 @@
+{
+  "normal": {
+    "Tipo": "normal",
+    "Quantidade": "130"
+  },
+  "fighting": {
+    "Tipo": "fighting",
+    "Quantidade": "78"
+  },
+  "flying": {
+    "Tipo": "flying",
+    "Quantidade": "135"
+  },
+  "poison": {
+    "Tipo": "poison",
+    "Quantidade": "85"
+  },
+  "ground": {
+    "Tipo": "ground",
+    "Quantidade": "82"
+  },
+  "rock": {
+    "Tipo": "rock",
+    "Quantidade": "89"
+  },
+  "bug": {
+    "Tipo": "bug",
+    "Quantidade": "96"
+  },
+  "ghost": {
+    "Tipo": "ghost",
+    "Quantidade": "73"
+  },
+  "steel": {
+    "Tipo": "steel",
+    "Quantidade": "77"
+  },
+  "fire": {
+    "Tipo": "fire",
+    "Quantidade": "88"
+  },
+  "water": {
+    "Tipo": "water",
+    "Quantidade": "162"
+  },
+  "grass": {
+    "Tipo": "grass",
+    "Quantidade": "124"
+  },
+  "electric": {
+    "Tipo": "electric",
+    "Quantidade": "89"
+  },
+  "psychic": {
+    "Tipo": "psychic",
+    "Quantidade": "123"
+  },
+  "ice": {
+    "Tipo": "ice",
+    "Quantidade": "58"
+  },
+  "dragon": {
+    "Tipo": "dragon",
+    "Quantidade": "78"
+  },
+  "dark": {
+    "Tipo": "dark",
+    "Quantidade": "76"
+  },
+  "fairy": {
+    "Tipo": "fairy",
+    "Quantidade": "72"
+  }
+}
